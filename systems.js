@@ -1,6 +1,6 @@
 /*
 
-Configuration data for the Resonant Orbit Calculator v1.3 (https://meyerweb.com/eric/ksp/resonant-orbits/)
+Configuration data for the Resonant Orbit Calculator v1.3 (https://meyerweb.com/eric/ksp/resonant-orbits/).
 
 The following are REQUIRED for each body:
 	"color":  "six-digit hexadecimal RGB value" (e.g. white = #FFFFFF), MUST be quoted
@@ -10,7 +10,7 @@ The following are REQUIRED for each body:
 	"atm":    outer edge of the atmosphere, in meters; use 0 if there is no atmosphere
 	"SOI":    the sphere of influence radius, in meters; use 1E+15 or higher for the system's central sun
 
-The color values were chosen based on the in-game appears of each planets, NOT the orbit color in Map view
+The color values were chosen based on the in-game appearance of each planet, NOT the orbit color in Map view.
 
 The following is OPTIONAL:
 	"default": true|false
